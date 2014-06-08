@@ -1,0 +1,3 @@
+[submodule "AnotherFolder/TestRepo"]
+	path = AnotherFolder/TestRepo
+	url = https://github.com/SquaredTiki/TestRepo.git
